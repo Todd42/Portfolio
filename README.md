@@ -9,10 +9,10 @@ Tower Ascent, VR climbing game available now on Steam.
 
 Dragon Ball Z Deck Building Game, Fan made game using Dragon Ball characters and universe made using the Cryptozoic Entertainment deck building game structure.
 
-  -includes 94 custom made cards.
+  - includes 94 custom made cards.
   
-  -based on DC Comics Deck Building Game.
+  - based on DC Comics Deck Building Game.
   
-  -includes custom type of card and custom mechanics in addition to all the original types.
+  - includes custom type of card and custom mechanics in addition to all the original types.
   
-  -available on the Steam Workshop for Tabletop Simulator. (http://steamcommunity.com/sharedfiles/filedetails/?id=657542968)
+  - available on the Steam Workshop for Tabletop Simulator. (http://steamcommunity.com/sharedfiles/filedetails/?id=657542968)
