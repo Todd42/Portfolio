@@ -16,3 +16,13 @@ Dragon Ball Z Deck Building Game, Fan made game using Dragon Ball characters and
   - includes custom type of card and custom mechanics in addition to all the original types.
   
   - available on the Steam Workshop for Tabletop Simulator. (http://steamcommunity.com/sharedfiles/filedetails/?id=657542968)
+
+
+MilSimVR
+  - A Software engineering project.
+  
+  - Breach and clear proctor based VR simulation for the HTC Vive.
+  
+  - Made with the input of ROTC Student.
+  
+  - Made by 6 man team in under 8 weeks.
