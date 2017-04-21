@@ -26,3 +26,5 @@ MilSimVR
   - Made with the input of ROTC Student.
   
   - Made by 6 man team in under 8 weeks.
+  
+  - Unity project files available on request. Files too large to host here.
